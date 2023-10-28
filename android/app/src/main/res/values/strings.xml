@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CongoBonMarche</string>
+    <string name="facebook_app_id">546334278906570</string>
+    <string name="fb_login_protocol_scheme">fb546334278906570</string>
+    <string name="facebook_client_token">13787545310154620f2761415a50a2a1</string>
+</resources>
